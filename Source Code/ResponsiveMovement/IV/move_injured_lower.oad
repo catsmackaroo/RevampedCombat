@@ -1,0 +1,8 @@
+Version 1 2
+{
+	crAnimation move_injured_lower\wstop_r.onim
+	crAnimation move_injured_lower\idle.onim
+	crAnimation move_injured_lower\walk.onim
+	crAnimation move_injured_lower\wstart.onim
+	crAnimation move_injured_lower\wstop_l.onim
+}

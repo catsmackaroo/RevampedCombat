@@ -1,0 +1,21 @@
+Version 1 2
+{
+	crAnimation move_crouch\run.onim
+	crAnimation move_crouch\walk_turn_r.onim
+	crAnimation move_crouch\rstop_r.onim
+	crAnimation move_crouch\wstop_r.onim
+	crAnimation move_crouch\crouchidle2idle.onim
+	crAnimation move_crouch\run_turn_r.onim
+	crAnimation move_crouch\idle.onim
+	crAnimation move_crouch\walk_turn_l.onim
+	crAnimation move_crouch\turn_360_r.onim
+	crAnimation move_crouch\walk.onim
+	crAnimation move_crouch\wstart.onim
+	crAnimation move_crouch\idle2crouchidle.onim
+	crAnimation move_crouch\wstop_l.onim
+	crAnimation move_crouch\turn_360_l.onim
+	crAnimation move_crouch\run_turn_l2.onim
+	crAnimation move_crouch\run_turn_l.onim
+	crAnimation move_crouch\rstop_l.onim
+	crAnimation move_crouch\run_turn_r2.onim
+}

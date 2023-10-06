@@ -1,0 +1,7 @@
+Version 1 2
+{
+	crAnimation injured\inj_default_to_rside.onim
+	crAnimation injured\inj_back_idle.onim
+	crAnimation injured\inj_rside_idle.onim
+	crAnimation injured\inj_default_to_back.onim
+}

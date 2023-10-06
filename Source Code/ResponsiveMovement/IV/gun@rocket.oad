@@ -1,0 +1,17 @@
+Version 1 2
+{
+	crAnimation gun@rocket\melee_crouch.onim
+	crAnimation gun@rocket\unholster_crouch.onim
+	crAnimation gun@rocket\unholster.onim
+	crAnimation gun@rocket\melee.onim
+	crAnimation gun@rocket\reload.onim
+	crAnimation gun@rocket\holster_crouch.onim
+	crAnimation gun@rocket\fire_crouch.onim
+	crAnimation gun@rocket\reload_crouch.onim
+	crAnimation gun@rocket\discard_crouch.onim
+	crAnimation gun@rocket\discard.onim
+	crAnimation gun@rocket\holster_2_aim.onim
+	crAnimation gun@rocket\holster.onim
+	crAnimation gun@rocket\fire.onim
+	crAnimation gun@rocket\wall_block_idle.onim
+}

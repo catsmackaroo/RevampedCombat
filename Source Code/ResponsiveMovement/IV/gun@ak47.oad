@@ -1,0 +1,22 @@
+Version 1 2
+{
+	crAnimation gun@ak47\p_load.onim
+	crAnimation gun@ak47\fire_up.onim
+	crAnimation gun@ak47\melee_crouch.onim
+	crAnimation gun@ak47\unholster_crouch.onim
+	crAnimation gun@ak47\unholster.onim
+	crAnimation gun@ak47\melee.onim
+	crAnimation gun@ak47\reload.onim
+	crAnimation gun@ak47\holster_crouch.onim
+	crAnimation gun@ak47\fire_down.onim
+	crAnimation gun@ak47\fire_crouch.onim
+	crAnimation gun@ak47\reload_crouch.onim
+	crAnimation gun@ak47\discard_crouch.onim
+	crAnimation gun@ak47\dbfire.onim
+	crAnimation gun@ak47\discard.onim
+	crAnimation gun@ak47\aim_2_holster.onim
+	crAnimation gun@ak47\holster_2_aim.onim
+	crAnimation gun@ak47\holster.onim
+	crAnimation gun@ak47\fire.onim
+	crAnimation gun@ak47\wall_block_idle.onim
+}

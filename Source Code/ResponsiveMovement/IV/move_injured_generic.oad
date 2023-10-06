@@ -1,0 +1,14 @@
+Version 1 2
+{
+	crAnimation move_injured_generic\run.onim
+	crAnimation move_injured_generic\runstart_fwd.onim
+	crAnimation move_injured_generic\rstop_r.onim
+	crAnimation move_injured_generic\wstop_r.onim
+	crAnimation move_injured_generic\idle.onim
+	crAnimation move_injured_generic\turn_360_r.onim
+	crAnimation move_injured_generic\walk.onim
+	crAnimation move_injured_generic\wstart.onim
+	crAnimation move_injured_generic\wstop_l.onim
+	crAnimation move_injured_generic\turn_360_l.onim
+	crAnimation move_injured_generic\rstop_l.onim
+}

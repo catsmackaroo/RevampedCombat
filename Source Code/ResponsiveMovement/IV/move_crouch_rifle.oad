@@ -1,0 +1,25 @@
+Version 1 2
+{
+	crAnimation move_crouch_rifle\run.onim
+	crAnimation move_crouch_rifle\walk_turn_r.onim
+	crAnimation move_crouch_rifle\rstop_r.onim
+	crAnimation move_crouch_rifle\wstop_r.onim
+	crAnimation move_crouch_rifle\crouchidle2idle.onim
+	crAnimation move_crouch_rifle\run_turn_r.onim
+	crAnimation move_crouch_rifle\crouch_roll_bwd.onim
+	crAnimation move_crouch_rifle\idle.onim
+	crAnimation move_crouch_rifle\walk_turn_l.onim
+	crAnimation move_crouch_rifle\turn_360_r.onim
+	crAnimation move_crouch_rifle\walk.onim
+	crAnimation move_crouch_rifle\crouch_roll_r.onim
+	crAnimation move_crouch_rifle\crouch_roll_l.onim
+	crAnimation move_crouch_rifle\wstart.onim
+	crAnimation move_crouch_rifle\idle2crouchidle.onim
+	crAnimation move_crouch_rifle\wstop_l.onim
+	crAnimation move_crouch_rifle\crouch_roll_fwd.onim
+	crAnimation move_crouch_rifle\turn_360_l.onim
+	crAnimation move_crouch_rifle\run_turn_l2.onim
+	crAnimation move_crouch_rifle\run_turn_l.onim
+	crAnimation move_crouch_rifle\rstop_l.onim
+	crAnimation move_crouch_rifle\run_turn_r2.onim
+}

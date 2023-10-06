@@ -1,0 +1,19 @@
+Version 1 2
+{
+	crAnimation cover_dive\high_r_pistol.onim
+	crAnimation cover_dive\high_l_pistol_short.onim
+	crAnimation cover_dive\low_r_pistol.onim
+	crAnimation cover_dive\low_l_pistol_short.onim
+	crAnimation cover_dive\high_l_rifle.onim
+	crAnimation cover_dive\low_r_rifle_short.onim
+	crAnimation cover_dive\high_l_pistol.onim
+	crAnimation cover_dive\high_r_pistol_short.onim
+	crAnimation cover_dive\low_r_pistol_short.onim
+	crAnimation cover_dive\low_l_pistol.onim
+	crAnimation cover_dive\high_r_rifle.onim
+	crAnimation cover_dive\high_r_rifle_short.onim
+	crAnimation cover_dive\low_l_rifle_short.onim
+	crAnimation cover_dive\low_r_rifle.onim
+	crAnimation cover_dive\low_l_rifle.onim
+	crAnimation cover_dive\high_l_rifle_short.onim
+}

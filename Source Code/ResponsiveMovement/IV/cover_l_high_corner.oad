@@ -1,0 +1,26 @@
+Version 1 2
+{
+	crAnimation cover_l_high_corner\rifle_peek.onim
+	crAnimation cover_l_high_corner\rifle_cower.onim
+	crAnimation cover_l_high_corner\pistol_blindfire.onim
+	crAnimation cover_l_high_corner\pistol_flip_180.onim
+	crAnimation cover_l_high_corner\unarmed_flip_180.onim
+	crAnimation cover_l_high_corner\ak47_blindfire.onim
+	crAnimation cover_l_high_corner\uzi_blindfire.onim
+	crAnimation cover_l_high_corner\shotgun_blindfire.onim
+	crAnimation cover_l_high_corner\pistol_idle.onim
+	crAnimation cover_l_high_corner\rifle_idle.onim
+	crAnimation cover_l_high_corner\lowerhalf_fire.onim
+	crAnimation cover_l_high_corner\throw_molotov.onim
+	crAnimation cover_l_high_corner\pistol_normal_fire_intro.onim
+	crAnimation cover_l_high_corner\pistol_peek.onim
+	crAnimation cover_l_high_corner\pistol_normal_fire_outro.onim
+	crAnimation cover_l_high_corner\unarmed_idle.onim
+	crAnimation cover_l_high_corner\unarmed_peek.onim
+	crAnimation cover_l_high_corner\rocket_blindfire.onim
+	crAnimation cover_l_high_corner\rifle_normal_fire_intro.onim
+	crAnimation cover_l_high_corner\rifle_flip_180.onim
+	crAnimation cover_l_high_corner\rifle_normal_fire_outro.onim
+	crAnimation cover_l_high_corner\rifle_blindfire.onim
+	crAnimation cover_l_high_corner\pistol_cower.onim
+}

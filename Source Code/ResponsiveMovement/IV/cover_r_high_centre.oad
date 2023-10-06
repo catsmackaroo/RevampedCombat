@@ -1,0 +1,11 @@
+Version 1 2
+{
+	crAnimation cover_r_high_centre\rifle_cower.onim
+	crAnimation cover_r_high_centre\pistol_flip_180.onim
+	crAnimation cover_r_high_centre\unarmed_flip_180.onim
+	crAnimation cover_r_high_centre\pistol_idle.onim
+	crAnimation cover_r_high_centre\rifle_idle.onim
+	crAnimation cover_r_high_centre\unarmed_idle.onim
+	crAnimation cover_r_high_centre\rifle_flip_180.onim
+	crAnimation cover_r_high_centre\pistol_cower.onim
+}
