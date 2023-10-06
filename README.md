@@ -2,7 +2,9 @@
 ![](https://cdn.discordapp.com/attachments/838951231497437195/1093289052654018630/p2.png)
 
 ---
-Welcome to the Revamped Combat GitHub page. You may find the source code & download here (see Releases)
+Welcome to the Revamped Combat GitHub page. This hosts some source codes (where applicable) and all previous downloads.
+
+[Download(s)](https://github.com/catsmackaroo/RevampedCombat/releases)
 
 **Requires**: [IV SDK .NET](https://gtaforums.com/topic/986510-iv-sdk-net/) & [FusionFix](https://github.com/Zolika1351/GTAIV.EFLC.FusionFix)
 
