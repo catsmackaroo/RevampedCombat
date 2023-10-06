@@ -1,0 +1,617 @@
+Version 8 2
+{
+	Flags FLAG_0 FLAG_6 FLAG_7 FLAG_8
+	Frames 7
+	SequenceFrameLimit 127
+	Duration 0.20000000
+	_f10 4123921317
+	ExtraFlags
+	Sequences 7
+	MaterialID -1
+	Animation
+	{
+		BoneRotation Float4 1204
+		{
+			FramesData MultiChannel
+			{
+				channel
+				{
+					0.00000000
+					-0.00750046
+					-0.01444534
+					-0.01750108
+					-0.01444534
+					-0.00750046
+					0.00000000
+				}
+				channel
+				{
+					0.00000000
+					0.01709714
+					0.03290393
+					0.04096861
+					0.03290393
+					0.01709714
+					0.00000000
+				}
+				channel
+				{
+					0.00000001
+					-0.01533965
+					-0.02981104
+					-0.03675731
+					-0.02981104
+					-0.01533965
+					0.00000001
+				}
+				channel
+				{
+					1.00000000
+					0.99976150
+					0.99880770
+					0.99833080
+					0.99880770
+					0.99976150
+					1.00000000
+				}
+			}
+		}
+		BoneRotation Float4 1205
+		{
+			FramesData MultiChannel
+			{
+				channel
+				{
+					0.00000007
+					0.00994837
+					0.02029460
+					0.02506978
+					0.02029460
+					0.00994837
+					0.00000007
+				}
+				channel
+				{
+					-0.00000001
+					0.00092761
+					0.00324666
+					0.00324666
+					0.00324666
+					0.00092761
+					-0.00000001
+				}
+				channel
+				{
+					0.00000000
+					-0.00427601
+					-0.00794117
+					-0.00946832
+					-0.00794117
+					-0.00427601
+					0.00000000
+				}
+				channel Static
+				{
+					1.00000000
+				}
+			}
+		}
+		BoneRotation Float4 1216
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000001 0.00000000 0.00000001 1.00000000
+			}
+		}
+		BoneRotation Float4 1217
+		{
+			FramesData MultiChannel
+			{
+				channel
+				{
+					-0.00000002
+					-0.00000002
+					0.05791168
+					0.09172349
+					0.07733548
+					0.04136548
+					-0.00000002
+				}
+				channel
+				{
+					0.00000003
+					0.00000003
+					0.04165017
+					0.06476091
+					0.05561820
+					0.03072970
+					0.00000003
+				}
+				channel
+				{
+					0.00000000
+					0.00000000
+					-0.01864192
+					-0.03699256
+					-0.02825416
+					-0.01194248
+					0.00000000
+				}
+				channel
+				{
+					1.00000000
+					1.00000000
+					0.99719510
+					0.99298760
+					0.99485760
+					0.99859760
+					1.00000000
+				}
+			}
+		}
+		BoneRotation Float4 1218
+		{
+			FramesData MultiChannel
+			{
+				channel Static
+				{
+					0.00000000
+				}
+				channel Static
+				{
+					0.00000000
+				}
+				channel
+				{
+					0.00000000
+					0.00000000
+					-0.15529110
+					-0.24567720
+					-0.20769580
+					-0.11250190
+					0.00000000
+				}
+				channel
+				{
+					1.00000000
+					1.00000000
+					0.98783790
+					0.96935190
+					0.97810840
+					0.99367580
+					1.00000000
+				}
+			}
+		}
+		BoneRotation Float4 1219
+		{
+			FramesData MultiChannel
+			{
+				channel
+				{
+					0.00000005
+					0.00000005
+					0.02762823
+					0.05316337
+					0.04186093
+					0.01925606
+					0.00000005
+				}
+				channel
+				{
+					0.00000000
+					0.00000000
+					-0.02885068
+					-0.05019229
+					-0.04070713
+					-0.01936553
+					0.00000000
+				}
+				channel
+				{
+					-0.00000001
+					-0.00000001
+					0.07469424
+					0.12055080
+					0.10116810
+					0.05483881
+					-0.00000001
+				}
+				channel
+				{
+					1.00000000
+					1.00000000
+					0.99645560
+					0.99001110
+					0.99323340
+					0.99806680
+					1.00000000
+				}
+			}
+		}
+		BoneRotation Float4 1223
+		{
+			FramesData MultiChannel
+			{
+				channel
+				{
+					0.00000002
+					0.00000002
+					-0.03958354
+					-0.06774366
+					-0.05472625
+					-0.02816010
+					0.00000002
+				}
+				channel Static
+				{
+					0.00000005
+				}
+				channel Static
+				{
+					-0.00000001
+				}
+				channel
+				{
+					0.99999980
+					0.99999980
+					0.99934360
+					0.99770270
+					0.99835910
+					0.99967180
+					0.99999980
+				}
+			}
+		}
+		BoneRotation Float4 1224
+		{
+			FramesData MultiChannel
+			{
+				channel
+				{
+					0.00000000
+					0.00000000
+					-0.01304396
+					-0.02416969
+					-0.01879865
+					-0.00920750
+					0.00000000
+				}
+				channel
+				{
+					0.00000000
+					0.00000000
+					0.01868122
+					0.03389308
+					0.02722121
+					0.01280998
+					0.00000000
+				}
+				channel
+				{
+					0.00000000
+					0.00000000
+					0.02912903
+					0.05067653
+					0.04070083
+					0.01995139
+					0.00000000
+				}
+				channel
+				{
+					1.00000000
+					1.00000000
+					0.99938490
+					0.99784720
+					0.99876980
+					0.99969250
+					1.00000000
+				}
+			}
+		}
+		BoneRotation Float4 1225
+		{
+			FramesData MultiChannel
+			{
+				channel Static
+				{
+					0.00000000
+				}
+				channel Static
+				{
+					0.00000000
+				}
+				channel
+				{
+					0.00000000
+					0.00000000
+					-0.08285351
+					-0.13569920
+					-0.11312690
+					-0.05948457
+					0.00000000
+				}
+				channel
+				{
+					1.00000000
+					1.00000000
+					0.99641940
+					0.99075010
+					0.99373390
+					0.99820970
+					1.00000000
+				}
+			}
+		}
+		BoneRotation Float4 1232
+		{
+			FramesData MultiChannel
+			{
+				channel
+				{
+					0.00000012
+					0.00000012
+					-0.02227995
+					-0.04223225
+					-0.03292118
+					-0.01529664
+					0.00000012
+				}
+				channel
+				{
+					0.00000004
+					0.00000004
+					0.02240406
+					0.03845018
+					0.03118401
+					0.01544065
+					0.00000004
+				}
+				channel
+				{
+					0.00001968
+					0.00001968
+					-0.00094532
+					-0.00930866
+					-0.00448366
+					0.00066301
+					0.00001968
+				}
+				channel
+				{
+					1.00000000
+					1.00000000
+					0.99952120
+					0.99832430
+					0.99904240
+					0.99976060
+					1.00000000
+				}
+			}
+		}
+		BoneRotation Float4 13744
+		{
+			FramesData SingleChannel Static
+			{
+				-0.00000012 -0.00000003 -0.00000001 1.00000000
+			}
+		}
+		BoneRotation Float4 13745
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000000 0.00000000 0.00000016 1.00000000
+			}
+		}
+		BoneRotation Float4 13746
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000000 0.00000000 0.00000033 1.00000000
+			}
+		}
+		BoneRotation Float4 13747
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000001 0.00000001 -0.00000007 1.00000000
+			}
+		}
+		BoneRotation Float4 13748
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000000 0.00000000 0.00000004 1.00000000
+			}
+		}
+		BoneRotation Float4 13749
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000000 0.00000000 0.00000003 1.00000000
+			}
+		}
+		BoneRotation Float4 13750
+		{
+			FramesData SingleChannel Static
+			{
+				-0.00000001 -0.00000003 -0.00000009 1.00000000
+			}
+		}
+		BoneRotation Float4 13751
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000000 0.00000000 0.00000017 1.00000000
+			}
+		}
+		BoneRotation Float4 13752
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000000 0.00000000 0.00000006 1.00000000
+			}
+		}
+		BoneRotation Float4 13753
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000000 0.00000000 0.00000000 1.00000000
+			}
+		}
+		BoneRotation Float4 13760
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000000 0.00000000 0.00000000 1.00000000
+			}
+		}
+		BoneRotation Float4 13761
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000000 0.00000000 0.00000009 1.00000000
+			}
+		}
+		BoneRotation Float4 13762
+		{
+			FramesData SingleChannel Static
+			{
+				-0.00000003 -0.00000003 -0.00000004 1.00000000
+			}
+		}
+		BoneRotation Float4 13763
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000000 0.00000000 -0.00000003 1.00000000
+			}
+		}
+		BoneRotation Float4 13764
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000000 0.00000000 0.00000003 1.00000000
+			}
+		}
+		BoneRotation Float4 13776
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000002 0.00000001 0.00000000 0.99999980
+			}
+		}
+		BoneRotation Float4 13777
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000000 0.00000000 0.00000017 1.00000000
+			}
+		}
+		BoneRotation Float4 13778
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000000 0.00000000 0.00000013 1.00000000
+			}
+		}
+		BoneRotation Float4 13779
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000000 0.00000000 0.00000003 1.00000000
+			}
+		}
+		BoneRotation Float4 13780
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000000 0.00000000 0.00000000 1.00000000
+			}
+		}
+		BoneRotation Float4 13781
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000000 0.00000000 -0.00000020 0.99999980
+			}
+		}
+		BoneRotation Float4 13782
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000000 0.00000000 0.00000000 1.00000000
+			}
+		}
+		BoneRotation Float4 13783
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000000 0.00000000 -0.00000007 1.00000000
+			}
+		}
+		BoneRotation Float4 13784
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000000 0.00000000 -0.00000003 1.00000000
+			}
+		}
+		BoneRotation Float4 13785
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000001 0.00000001 -0.00000006 1.00000000
+			}
+		}
+		BoneRotation Float4 13792
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000000 0.00000000 0.00000003 1.00000000
+			}
+		}
+		BoneRotation Float4 13793
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000000 0.00000000 -0.00000003 1.00000000
+			}
+		}
+		BoneRotation Float4 13794
+		{
+			FramesData SingleChannel Static
+			{
+				-0.00000003 -0.00000002 0.00000002 1.00000000
+			}
+		}
+		BoneRotation Float4 13795
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000000 0.00000000 0.00000003 1.00000000
+			}
+		}
+		BoneRotation Float4 13796
+		{
+			FramesData SingleChannel Static
+			{
+				0.00000000 0.00000000 -0.00000008 1.00000000
+			}
+		}
+		BoneRotation Float4 53324
+		{
+			FramesData SingleChannel Static
+			{
+				-0.00000034 -0.00000018 -0.00000002 0.99999980
+			}
+		}
+		ActionFlags UInt 0
+		{
+			FramesData SingleChannel Static
+			{
+				0
+			}
+		}
+	}
+}
