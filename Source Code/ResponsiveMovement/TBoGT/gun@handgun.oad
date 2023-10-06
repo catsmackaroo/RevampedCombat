@@ -1,0 +1,22 @@
+Version 1 2
+{
+	crAnimation gun@handgun\melee_crouch.onim
+	crAnimation gun@handgun\unholster_crouch.onim
+	crAnimation gun@handgun\unholster.onim
+	crAnimation gun@handgun\execute.onim
+	crAnimation gun@handgun\melee.onim
+	crAnimation gun@handgun\reload.onim
+	crAnimation gun@handgun\holster_crouch.onim
+	crAnimation gun@handgun\fire_crouch.onim
+	crAnimation gun@handgun\reload_crouch.onim
+	crAnimation gun@handgun\discard_crouch.onim
+	crAnimation gun@handgun\dbfire.onim
+	crAnimation gun@handgun\dbfire_l.onim
+	crAnimation gun@handgun\discard.onim
+	crAnimation gun@handgun\aim_2_holster.onim
+	crAnimation gun@handgun\holster_2_aim.onim
+	crAnimation gun@handgun\holster.onim
+	crAnimation gun@handgun\fire.onim
+	crAnimation gun@handgun\wall_block_idle.onim
+	crAnimation gun@handgun\idle2_wall_block.onim
+}
