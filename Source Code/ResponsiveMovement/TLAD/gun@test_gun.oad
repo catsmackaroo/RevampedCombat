@@ -1,0 +1,23 @@
+Version 1 2
+{
+	crAnimation gun@test_gun\p_load.onim
+	crAnimation gun@test_gun\fire_up.onim
+	crAnimation gun@test_gun\melee_crouch.onim
+	crAnimation gun@test_gun\unholster_crouch.onim
+	crAnimation gun@test_gun\unholster.onim
+	crAnimation gun@test_gun\melee.onim
+	crAnimation gun@test_gun\reload.onim
+	crAnimation gun@test_gun\holster_crouch.onim
+	crAnimation gun@test_gun\fire_down.onim
+	crAnimation gun@test_gun\fire_crouch.onim
+	crAnimation gun@test_gun\reload_crouch.onim
+	crAnimation gun@test_gun\discard_crouch.onim
+	crAnimation gun@test_gun\dbfire.onim
+	crAnimation gun@test_gun\dbfire_l.onim
+	crAnimation gun@test_gun\discard.onim
+	crAnimation gun@test_gun\aim_2_holster.onim
+	crAnimation gun@test_gun\holster_2_aim.onim
+	crAnimation gun@test_gun\holster.onim
+	crAnimation gun@test_gun\fire.onim
+	crAnimation gun@test_gun\wall_block_idle.onim
+}

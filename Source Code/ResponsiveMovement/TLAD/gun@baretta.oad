@@ -1,0 +1,20 @@
+Version 1 2
+{
+	crAnimation gun@baretta\fire_up.onim
+	crAnimation gun@baretta\melee_crouch.onim
+	crAnimation gun@baretta\unholster_crouch.onim
+	crAnimation gun@baretta\unholster.onim
+	crAnimation gun@baretta\melee.onim
+	crAnimation gun@baretta\reload.onim
+	crAnimation gun@baretta\holster_crouch.onim
+	crAnimation gun@baretta\fire_down.onim
+	crAnimation gun@baretta\fire_crouch.onim
+	crAnimation gun@baretta\reload_crouch.onim
+	crAnimation gun@baretta\discard_crouch.onim
+	crAnimation gun@baretta\discard.onim
+	crAnimation gun@baretta\aim_2_holster.onim
+	crAnimation gun@baretta\holster_2_aim.onim
+	crAnimation gun@baretta\holster.onim
+	crAnimation gun@baretta\fire.onim
+	crAnimation gun@baretta\wall_block_idle.onim
+}

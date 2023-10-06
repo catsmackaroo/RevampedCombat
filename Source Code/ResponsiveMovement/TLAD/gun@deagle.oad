@@ -1,0 +1,22 @@
+Version 1 2
+{
+	crAnimation gun@deagle\melee_crouch.onim
+	crAnimation gun@deagle\unholster_crouch.onim
+	crAnimation gun@deagle\unholster.onim
+	crAnimation gun@deagle\execute.onim
+	crAnimation gun@deagle\melee.onim
+	crAnimation gun@deagle\reload.onim
+	crAnimation gun@deagle\holster_crouch.onim
+	crAnimation gun@deagle\fire_crouch.onim
+	crAnimation gun@deagle\reload_crouch.onim
+	crAnimation gun@deagle\discard_crouch.onim
+	crAnimation gun@deagle\dbfire.onim
+	crAnimation gun@deagle\dbfire_l.onim
+	crAnimation gun@deagle\discard.onim
+	crAnimation gun@deagle\aim_2_holster.onim
+	crAnimation gun@deagle\holster_2_aim.onim
+	crAnimation gun@deagle\holster.onim
+	crAnimation gun@deagle\fire.onim
+	crAnimation gun@deagle\wall_block_idle.onim
+	crAnimation gun@deagle\idle2_wall_block.onim
+}
