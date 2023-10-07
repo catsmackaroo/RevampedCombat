@@ -8,7 +8,7 @@ Welcome to the Revamped Combat GitHub page. This hosts some source codes (where 
 
 **Requires**: [IV SDK .NET](https://gtaforums.com/topic/986510-iv-sdk-net/) & [FusionFix](https://github.com/Zolika1351/GTAIV.EFLC.FusionFix)
 
-This page goes only a few of the features available with this mod. View the [GTAForums page](https://gtaforums.com/topic/979069-revamped-combat/) for much more information.
+This page goes over only a few of the features available with this mod. View the [GTAForums page](https://gtaforums.com/topic/979069-revamped-combat/) for much more information.
 
 # New Features
 **Blood Impact Flash**
