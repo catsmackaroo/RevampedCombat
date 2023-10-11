@@ -1,0 +1,19 @@
+Version 1 2
+{
+	crAnimation gun@sawnoff\melee_crouch.onim
+	crAnimation gun@sawnoff\unholster_crouch.onim
+	crAnimation gun@sawnoff\unholster.onim
+	crAnimation gun@sawnoff\melee.onim
+	crAnimation gun@sawnoff\reload.onim
+	crAnimation gun@sawnoff\holster_crouch.onim
+	crAnimation gun@sawnoff\fire_crouch.onim
+	crAnimation gun@sawnoff\reload_crouch.onim
+	crAnimation gun@sawnoff\discard_crouch.onim
+	crAnimation gun@sawnoff\dbfire.onim
+	crAnimation gun@sawnoff\discard.onim
+	crAnimation gun@sawnoff\aim_2_holster.onim
+	crAnimation gun@sawnoff\holster_2_aim.onim
+	crAnimation gun@sawnoff\holster.onim
+	crAnimation gun@sawnoff\fire.onim
+	crAnimation gun@sawnoff\wall_block_idle.onim
+}
