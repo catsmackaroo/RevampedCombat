@@ -24,3 +24,13 @@ This is mostly a modification collection. Proper credits are seen in the [downlo
 - **Weapon Variety** - More weapons will spawn on pedestrians. This is best seen on Police, N.O.o.S.E, & FIB, who can now spawn with Pump Shotguns, SPAS-12's, & even grenade launchers (TBoGT exclusive.) The previously mentioned beta weapons will also spawn naturally with this.
 - **Improved Melee Ped Combat** - The pedestrians now have access to the player's melee capability. This means peds can now: counter-attack, dodge, steal your weapons, & backstab you.
 - **Extras** - Assault Rifle Drive-by with convertibles is now possible & drive-bying with SMGs is fixed.
+
+# Media
+![](https://media.giphy.com/media/FH6LrBLEqHWVp8SKiO/giphy.gif)
+![](https://media.giphy.com/media/YVOx8cw8L8Du2Jer57/giphy.gif)
+![](https://media.giphy.com/media/2KYiloibknHCrFK1o1/giphy.gif)
+![](https://media.giphy.com/media/oIQeZGufnQOwuEN0Ie/giphy.gif)
+![](https://cdn.discordapp.com/attachments/734888920046764105/1155503018599522365/pool_cue.png)
+![](https://cdn.discordapp.com/attachments/838951231497437195/1084584877074161804/Screenshot_2_-_Revolver.png)
+![](https://cdn.discordapp.com/attachments/734888920046764105/1155503019018948829/wooden_bat.png)
+![](https://cdn.discordapp.com/attachments/838951231497437195/1084584876797329479/Screenshot_1_-_SPAS-12.png)
