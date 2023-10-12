@@ -2,7 +2,9 @@
 ![](https://cdn.discordapp.com/attachments/838951231497437195/1093289052654018630/p2.png)
 
 ---
-Welcome to the Revamped Combat GitHub page. This hosts some source codes (where applicable) and all previous downloads.
+### Introduction
+**Revamped Combat** is a gameplay-oriented mod for [Grand Theft Auto IV](https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV) aimed at making the combat brutal, dangerous, & intense.
+This GitHub page hosts developer content such as [Used Tools](https://github.com/catsmackaroo/RevampedCombat/tree/main/Used%20Tools%20(Mirrors)) & [Source Codes](https://github.com/catsmackaroo/RevampedCombat/tree/main/Source%20Cod), as well as downloads for all versions.
 
 [Download(s)](https://github.com/catsmackaroo/RevampedCombat/releases)
 
@@ -10,17 +12,12 @@ Welcome to the Revamped Combat GitHub page. This hosts some source codes (where 
 
 This page goes over only a few of the features available with this mod. View the [GTAForums page](https://gtaforums.com/topic/979069-revamped-combat/) for much more information.
 
-# New Features
-**Blood Impact Flash**
-
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDE0NTQxbXZnbXRkZzdidTlrZ3pnZGlpZ25xYTE5ZGlqNHBoZGM0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FH6LrBLEqHWVp8SKiO/giphy.gif)
-
-**Improved Peds Combat**
-
-![](https://media.giphy.com/media/YVOx8cw8L8Du2Jer57/giphy.gif)
-
-# Beta Weapons
-![](https://cdn.discordapp.com/attachments/838951231497437195/1084584876797329479/Screenshot_1_-_SPAS-12.png)
-![](https://cdn.discordapp.com/attachments/838951231497437195/1084584877074161804/Screenshot_2_-_Revolver.png)
-![](https://cdn.discordapp.com/attachments/734888920046764105/1155503018599522365/pool_cue.png)
-![](https://cdn.discordapp.com/attachments/734888920046764105/1155503019018948829/wooden_bat.png)
+### Features
+- **Weapon Overhaul** - A majority weapons are overhauled with realism & game balance in mind. This includes on-ground guns & vehicular weapons.
+- **Increased Ped Defense** - All pedestrian defense stats are adapted with the weapon tweaks in mind. This results in the player & pedestrians taking roughly the same amount of damage.
+- **More Weapons** - Most beta weapons have been added. They spawn naturally as well. This includes: SPAS-12, Revolver, Wooden Bat, & Pool Cue.
+- **More Animations** - Tons of animations are restored & implemented. Peds can attempt to crawl away, hold onto their wounds, & much more. Thanks to Beaten & Bruised.
+- **Blood Impact Flash** - The screen will now flash red when the player's health is damaged. This will not occur when you have armor.
+- **Fixed Animiations** - Various animations for guns are fixed & improved. Thanks to Improved Animations Pack.
+- **Responsive Movement** - Various animations are also spliced or sped up, resulting in movement feeling more responsive & fast-paced.
+- **Bullet Penetration** - Tons of materials in the world such as glass, wood, & plastic are able to be shot through. 
