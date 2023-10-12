@@ -1,9 +1,7 @@
 ![](https://cdn.discordapp.com/attachments/838951231497437195/1093289052419141662/p1.png)
 ![](https://cdn.discordapp.com/attachments/838951231497437195/1093289052654018630/p2.png)
 
----
-
-### Introduction
+# Introduction
 **Revamped Combat** is a gameplay-oriented mod for [Grand Theft Auto IV](https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV) aimed at making the combat brutal, dangerous, & intense.
 
 This GitHub page hosts developer content such as [Used Tools](https://github.com/catsmackaroo/RevampedCombat/tree/main/Used%20Tools%20(Mirrors)) & [Source Codes](https://github.com/catsmackaroo/RevampedCombat/tree/main/Source%20Cod), as well as downloads for all versions.
@@ -14,9 +12,7 @@ This GitHub page hosts developer content such as [Used Tools](https://github.com
 
 This is mostly a modification collection. Proper credits are seen in the [download](https://github.com/catsmackaroo/RevampedCombat/releases) _(see Credits folder)_ or on the [GTAForums](https://gtaforums.com/topic/979069-revamped-combat/) page.
 
----
-
-### Key Features
+# Key Features
 - **Weapon Overhaul** - A majority weapons are overhauled with realism & game balance in mind. This includes on-ground guns & vehicular weapons.
 - **Increased Ped Defense** - All pedestrian defense stats are adapted with the weapon tweaks in mind. This results in the player & pedestrians taking roughly the same amount of damage.
 - **More Weapons** - Most beta weapons have been added. They spawn naturally as well. This includes: SPAS-12, Revolver, Wooden Bat, & Pool Cue.
