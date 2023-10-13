@@ -18,6 +18,7 @@ This is mostly a modification collection. Proper credits are seen in the [downlo
 - **More Weapons** - Most beta weapons have been added. They spawn naturally as well. This includes: SPAS-12, Revolver, Wooden Bat, & Pool Cue.
 - **More Animations** - Tons of animations are restored & implemented. Peds can attempt to crawl away, hold onto their wounds, & much more.
 - **Blood Impact Flash** - The screen will now flash red when the player's health is damaged. This will not occur when you have armor.
+- **Blood Enhancements** - More blood effects can be seen. Most prominently is a bleeding/blood drool effect on both the player & NPCs.
 - **Fixed Animiations** - Various animations for guns are fixed & improved.
 - **Responsive Movement** - Various animations are also spliced or sped up, resulting in movement feeling more responsive & fast-paced.
 - **Bullet Penetration** - Tons of materials in the world such as glass, wood, & plastic are able to be shot through.
