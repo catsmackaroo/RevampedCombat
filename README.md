@@ -24,6 +24,7 @@ This is mostly a modification collection. Proper credits are seen in the [downlo
 - Weapon spawns for peds is now more varied. Police can spawn with more shotguns & more DLC weapons, including the grenade launcher _(TBoGT Exclusive.)_
 - Drive-bying with Assault Rifles is now possible (Convertible only)
 - Drive-bying with the Street Sweeper is now possible.
+- The screen will flash red when the player's health is damaged.
 
 ### Difficulty
 - All guns have been overhauled & enhanced with realism & game balance in mind. Specific changes can be seen on the [GTAForums](https://gtaforums.com/topic/979069-revamped-combat/) page.
