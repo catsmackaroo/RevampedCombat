@@ -15,7 +15,7 @@ This is mostly a modification collection. Proper credits are seen in the [downlo
 - All weapon reloading animations have been fixed.
 - SMG drive-bying fire-rates have been fixed.
 - Assault Rifle firing delay has been fixed.
-- Street Sweeper firing animations has been fixed.
+- Street Sweeper firing animations have been fixed.
 
 ### Improvements
 - Pedestrians are now able to counter-attack, dodge, backstab, & steal weapons during melee combat.
